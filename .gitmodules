@@ -7,3 +7,6 @@
 [submodule "Reddiary"]
 	path = Reddiary
 	url = git@github.com:harinbandarupalli/Reddiary.git
+[submodule "eShop"]
+	path = eShop
+	url = git@github.com:harinbandarupalli/eShop.git
