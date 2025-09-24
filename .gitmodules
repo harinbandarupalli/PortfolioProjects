@@ -1,0 +1,9 @@
+[submodule "CryptoPulse"]
+	path = CryptoPulse
+	url = git@github.com:harinbandarupalli/CryptoPulse.git
+[submodule "EventHive"]
+	path = EventHive
+	url = git@github.com:harinbandarupalli/EventHive.git
+[submodule "Reddiary"]
+	path = Reddiary
+	url = git@github.com:harinbandarupalli/Reddiary.git
